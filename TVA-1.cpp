@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     const float TVA=0.206; // en c++
-    float TVA, P_HT, P_TTC;
+    float P_HT, P_TTC;
     
     cout <<"donner le prix hors taxes"<<endl;
     cin>>P_HT; //100
